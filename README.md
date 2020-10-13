@@ -1,4 +1,4 @@
-# Machine Learning Adult-dataset-classificaton_Problem-
+# All Machine Learning Models on Adult-dataset-classificaton 
 
 About Adult Dataset:
  Adult income dataset that involves predicting personal income levels as above or below $50,000 per year based on personal details such as relationship and education level. 
